@@ -4,3 +4,5 @@ A thief was stopped by Petya yesterday evening ''')
 a =my_str. replace('Petya', 'Artyom')
 
 print(a)
+
+check 
